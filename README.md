@@ -1,4 +1,4 @@
-# CASE STUDY Crimes near LA venues
+# CASE STUDY - Crimes near LA venues
 Case study of ratio of crimes within 20 miles from sports venues
 
 ## Power BI / Powerpoint - Case Study Crime within 20 miles of Albert Gersten Pavilion
