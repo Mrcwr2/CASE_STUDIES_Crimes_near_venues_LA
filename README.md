@@ -6,7 +6,7 @@ Case study of ratio of crimes within 20 miles from sports venues
 ## (Project 3) Power Bi/Powerpoint - Dodger Stadium Crime Case Study - Is Dodger Stadium Safe?
 Link to full Report - [Dodger Stadium Crime Case Study.pdf](https://github.com/Mrcwr2/CASE_STUDY_Crime_near_venues_LA/files/9085073/Dodger.Stadium.Crime.Case.Study.pdf)
 
-![dodgerstadium](https://user-images.githubusercontent.com/40834093/178291883-c9c2b413-9680-44cb-b3d6-52668d4d1089.PNG)
+![dodgerstadium](https://user-images.githubusercontent.com/40834093/178294142-c8410db3-e351-4cde-98fb-2dbd379db914.PNG)
 
 
 
@@ -18,9 +18,11 @@ Link to Dashboard -  https://public.tableau.com/app/profile/charles1474/viz/Case
 ![Juvi](https://user-images.githubusercontent.com/40834093/173383425-32666f2a-3e5c-4744-9a19-0d304030e5f0.PNG)
 
 
-## (project 1) Power BI / Powerpoint - Case Study Crime within 20 miles of Albert Gersten Pavilion
-Link to full case study - [4.23.22_CrimeStudy_Albert Gersten Pavilion.pdf](https://github.com/Mrcwr2/Py_Matplotlib_Histogram_Meryl_Streep/files/8824927/4.23.22_CrimeStudy_Albert.Gersten.Pavilion.pdf)
-![AutoCrime](https://user-images.githubusercontent.com/40834093/173383979-e340ef5e-daa2-49d6-9b34-fc4501e8d79c.PNG)
+## (Project 1) Power BI / Powerpoint - Case Study Crime within 20 miles of Albert Gersten Pavilion
+Link to full case study - [4.23.22_CrimeStudy_Albert Gersten Pavilion.pdf](https://github.com/Mrcwr2/CASE_STUDIES_Crimes_near_venues_LA/files/9085203/4.23.22_CrimeStudy_Albert.Gersten.Pavilion.pdf)
+
+![Capture](https://user-images.githubusercontent.com/40834093/178294711-4eced062-cc1a-4121-b55f-6531a2f879b0.PNG)
+
 
 
 ## Data Files
