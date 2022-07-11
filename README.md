@@ -1,4 +1,4 @@
-# CASE STUDY - Crimes near LA venues
+# (Multiple) CASE STUDIES - Crimes near LA venues
 Case study of ratio of crimes within 20 miles from sports venues
 
 
